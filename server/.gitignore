@@ -3,3 +3,4 @@ uploads/*
 !uploads/*.svg
 !uploads/.gitkeep
 
+*.lock
